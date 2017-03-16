@@ -1,0 +1,8 @@
+gsrLogger
+gsrOutput.tsv
+
+# object files
+*.o
+
+# lock files
+.~lock*

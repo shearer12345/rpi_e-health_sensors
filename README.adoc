@@ -1,0 +1,11 @@
+== Installation
+
+run `sh ./install_bcm2835.sh`
+
+== Building
+
+run `g++ -std=c++11 -lpthread -lrt gsrLogger.cpp arduPi.cpp eHealth.cpp -o gsrLogger`
+
+== Running
+
+run `sudo ./gsrLogger`
